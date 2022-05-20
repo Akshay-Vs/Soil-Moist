@@ -32,3 +32,4 @@ Features
 
 Circuit Diagram
 ---------------
+<img src="https://github.com/Akshay-Vs/Soil-Moist/blob/main/Circuit.PNG">
